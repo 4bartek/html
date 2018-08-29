@@ -1,14 +1,4 @@
-$(document).ready(function(){
-    $("#flip").click(function(){
-        $("#panel").fadeIn("slow");
-    });
-});
-        
-$(document).ready(function(){
-    $("#flip").click(function(){
-        $("#panel").fadeIn("slow");
-    });
-});
+
 
 // TABBED CONTENT
           
@@ -32,10 +22,20 @@ $(document).ready(function(){
 
           
 
-
-        // CLICKABLE DIV
-
-        document.getElementById("klikalny").setAttribute('onclick', 'location.href = "bictoinwisdom.pl"'); 
-
-
-
+$(document).ready(function(){
+    $("#flip1").click(function(){
+        $("#panel1").fadeIn("slow");
+    });
+});
+    
+$(document).ready(function(){
+    $("#flip2").click(function(){
+        $("#panel2").fadeIn("slow");
+    });
+});
+    
+$(document).ready(function(){
+    $("#flip3").click(function(){
+        $("#panel3").fadeIn("slow");
+    });
+});
