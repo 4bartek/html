@@ -1,0 +1,170 @@
+
+
+/*  MAIN  */
+.desktop {}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;   
+}
+
+
+/*  FONT  */
+.font {
+    font-family: roboto !important;
+    font-size: 16px !important;
+}
+
+
+/*  CARD ICCI  */
+
+.contentCard {
+    padding: 5%;
+}
+
+
+/*  CARD ICCI  */
+.panelCard {
+    background-color: #205158;
+}
+
+
+
+
+
+
+
+
+/*  TABLINKS  */
+
+
+    .tab button.active {
+        background-color: blue; /*  !!! !!!  */
+        width: 100%
+    }
+
+
+    .tablinks {
+        width: 60%;
+        height: 50px;
+        margin: 5%;
+        background-color: brown;
+        padding: 
+
+    }
+
+
+    .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        border: 0px solid #ccc;
+        border-top: none;
+    }
+
+
+
+/*  SLIDE  */
+
+
+        #panel, #flip {
+        padding: 5px;
+        text-align: center;
+    }
+
+        #panel {
+            width: 100%;
+            padding: 5px;
+            display: none;
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.tab {
+        overflow: hidden;
+        border: 1px solid #fff; 
+        background-color: aqua;
+    padding: 
+    }
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+    /*   button, input, optgroup, select, textarea {
+        background-color: chartreuse; !
+        border: 0px;
+
+        border-bottom-color: #FFF;
+    }
+
+*/
+
+    /* Style the tab */
+
+
+/*
+.tab button {
+        background-color: #205158;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
+    }
+*/
+
+
+/* aktywny */
+
+
+
+
+/*  TABLINK2 !!!  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Style the tab */
+
+
+    /* Style the buttons inside the tab */
+
+
+    /* Change background color of buttons on hover */
+
+    /* Create an active/current tablink class */
+
+    /* Style the tab content */
