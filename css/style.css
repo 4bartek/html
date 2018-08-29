@@ -1,30 +1,52 @@
 
 
 /*  MAIN  */
-.desktop {}
+
+
+body {
+width: 100%;
+background-color: #205158;
+font-family: roboto !important;
+font-size: 16px !important;
+}
+
+
+.desktop {
+    
+    background-color: #fff;
+    margin-top: 0.1%;
+    margin-right: 0.1%;
+    margin-left: 0.1%;
+    height: 99vh;
+    border-color: #000 !important;
+    border-radius: 15px;
+
+    }
+
 .row {
     margin-left: 0px;
     margin-right: 0px;   
-}
+    }
 
 
-/*  FONT  */
-.font {
-    font-family: roboto !important;
-    font-size: 16px !important;
-}
+.margin {
+    margin-top: 5%;
+    }
+
 
 
 /*  CARD ICCI  */
 
 .contentCard {
     padding: 5%;
-}
+    }
 
 
 /*  CARD ICCI  */
 .panelCard {
     background-color: #205158;
+    border-color: #000;
+    border-radius: 5px;
 }
 
 
